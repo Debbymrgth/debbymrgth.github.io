@@ -1,0 +1,55 @@
+body {
+    background: url(Image/backgrounddd.jpg) top center;
+}
+
+#container {
+    height: 800px;
+    width: 70%;
+    margin: auto;
+    background-color: white;
+}
+
+#header {
+    width: auto;
+    height: auto;
+    background-color: coral;
+}
+
+#content1 {
+    height: auto;
+    width: 100%;
+    background-color: wheat;
+}
+
+#content2 {
+    height: 20%;
+    width: 100%;
+    background-color: lightsalmon;
+}
+
+#content3 {
+    height: 20%;
+    width: 100%;
+    background-color: wheat;
+}
+
+#footer {
+    height: 15%;
+    width: 100%;
+    background-color: coral;
+}
+
+#justify {
+    justify-content: center;
+    display: flex;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
